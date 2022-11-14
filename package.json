@@ -1,0 +1,22 @@
+{
+  "name": "mealie-data-fixer",
+  "version": "1.0.0",
+  "description": "tools to fix bad recipe data in mealie via api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkringle/mealie-data-fixer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkringle/mealie-data-fixer/issues"
+  },
+  "homepage": "https://github.com/nkringle/mealie-data-fixer#readme",
+  "devDependencies": {
+    "swagger-axios-codegen": "^0.15.3"
+  }
+}
